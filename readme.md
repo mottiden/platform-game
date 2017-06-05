@@ -2,12 +2,12 @@
 
 ## How it works
 
-Download this repo. Click on platform-game.html and play! use your arrow keys on your keyboard. That's it really.
+[Download](https://github.com/mottiden/platform-game/archive/master.zip) this repo. Click on platform-game.html and play! use your arrow keys on your keyboard. That's it really.
 
 ## Demo
-Check out the demo project for a quick example of how it looks.
+Check out the [demo](https://jacopoparvizi.com/assets/apps/platform-game/platform-game.html) project for a quick example of how it looks.
 
-![weather-app](https://github.com/mottiden/platform-game/blob/master/platform-game.gif)
+![platform-game](https://github.com/mottiden/platform-game/blob/master/platform-game.gif)
 
 Inspired from [DarkBlue](http://www.lessmilk.com/games/10) and [eloquentjs](http://eloquentjavascript.net/15_game.html). 
 
